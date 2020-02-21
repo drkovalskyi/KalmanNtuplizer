@@ -1,0 +1,10 @@
+<library   file="*.cc" name="UIoanninaTrUpSPlugins">
+<use name="UIoannina/TrUpS"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="DataFormats/L1TMuon"/>
+<flags LDFLAGS="-fPIC"/>
+<flags EDM_PLUGIN="1"/>
+<flags ADD_SUBDIR="1"/>
+</library>
+

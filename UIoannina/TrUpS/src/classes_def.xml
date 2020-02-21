@@ -1,0 +1,8 @@
+<lcgdict>
+<class name="TrUpS::GenMuonDataFormat"/>
+<class name="TrUpS::L1AnalysisGMTDataFormat"/>
+<class name="TrUpS::L1AnalysisBMTFDataFormat"/>
+<class name="TrUpS::L1AnalysisDTTFDataFormat"/>
+<class name="TrUpS::L1AnalysisKMTFDataFormat"/>
+<class name="TrUpS::EventRunDataFormat"/>
+</lcgdict>
