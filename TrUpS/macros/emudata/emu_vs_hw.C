@@ -182,7 +182,7 @@ int emu_vs_hw(){
   TString RUN = "274198"; 
 
     TFile* f1 = new TFile("/afs/cern.ch/work/g/gflouris/TriggerUpgrade/Development/BMTF/Emulator_Unpacker/CMSSW_8_0_7/src/L1Trigger/L1TMuonBarrel/test/Ntuple_BMTF_data_Run"+RUN+".root");
-//TFile* f1 = new TFile("/afs/cern.ch/work/g/gflouris/TriggerUpgrade/Ntuples/CMSSW_8_0_2/src/UIoannina/TrUpS/test/Ntuples/Ntuple_BMTF_data_Run"+RUN+".root");
+//TFile* f1 = new TFile("/afs/cern.ch/work/g/gflouris/TriggerUpgrade/Ntuples/CMSSW_8_0_2/src/KalmanNtuplizer/TrUpS/test/Ntuples/Ntuple_BMTF_data_Run"+RUN+".root");
     ///L1Tree    
     TDirectory* dirl1 = (TDirectory*)f1->Get("L1TProducer");
     TTree* treel1 = (TTree*)dirl1->Get("L1Tree");

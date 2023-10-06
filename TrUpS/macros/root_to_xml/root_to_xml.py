@@ -8,7 +8,7 @@ from libs.Write_txt import *
 from libs import xml_writer
 from ROOT import *
 
-fileName="/afs/cern.ch/work/g/gflouris/TriggerUpgrade/Development/BMTF/Emulator_Unpacker/CMSSW_8_0_7/src/UIoannina/TrUpS/test/Ntuple_l1tbmtf_mc_etam08p08_pt115120_etahitsrev.root"
+fileName="/afs/cern.ch/work/g/gflouris/TriggerUpgrade/Development/BMTF/Emulator_Unpacker/CMSSW_8_0_7/src/KalmanNtuplizer/TrUpS/test/Ntuple_l1tbmtf_mc_etam08p08_pt115120_etahitsrev.root"
 name_of_xml="./output_xml/test_mc.xml"
 
 

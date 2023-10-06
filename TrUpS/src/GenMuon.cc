@@ -1,6 +1,6 @@
 #include "DataFormats/MuonReco/interface/Muon.h"
 #include "DataFormats/MuonReco/interface/MuonFwd.h"
-#include "UIoannina/TrUpS/interface/GenMuon.h"
+#include "KalmanNtuplizer/TrUpS/interface/GenMuon.h"
 
 #include "DataFormats/VertexReco/interface/Vertex.h"
 

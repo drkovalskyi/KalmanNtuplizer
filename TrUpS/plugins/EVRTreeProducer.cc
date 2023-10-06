@@ -41,7 +41,7 @@
 
 //local  data formats
 
-#include "UIoannina/TrUpS/interface/EventRun.h"
+#include "KalmanNtuplizer/TrUpS/interface/EventRun.h"
 //#include "../interface/EventRun.h"
 
 
